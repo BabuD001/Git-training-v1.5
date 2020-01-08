@@ -1,3 +1,5 @@
 Orange
 Yellow
 Pink
+Red
+Pink
